@@ -1,4 +1,5 @@
----
+dont kill my app
+
 manufacturer:
     - tecno
 
